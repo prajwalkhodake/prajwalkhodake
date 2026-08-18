@@ -157,26 +157,6 @@ An Android application project focused on creating a practical mobile experience
 <tr>
 <td width="50%">
 
-### 🖥️ Vercel Clone
-
-A frontend project inspired by the design and interface of Vercel.
-
-**Tech:** HTML • CSS
-
-</td>
-
-<td width="50%">
-
-### 🧮 Calculator
-
-A simple web-based calculator project created to practice frontend development.
-
-**Tech:** HTML • CSS • JavaScript
-
-</td>
-</tr>
-</table>
-
 ---
 
 # 📊 GitHub Statistics
