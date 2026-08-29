@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Prajwal Khodake
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=header" /><br>
+## 👋 Hi, I'm Prajwal Khodake
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Full+Stack+Developer;Data+Science+Enthusiast;Building+Projects+%26+Learning+Every+Day" />
@@ -104,78 +108,6 @@ I'm a **Computer Engineering student** interested in building practical software
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### ✈️ Airline Reservation System
-
-A full-stack airline reservation application designed to manage flights, passengers and bookings.
-
-**Tech:** React • Flask • PostgreSQL
-
-</td>
-
-<td width="50%">
-
-### 📚 Universal Study Hub
-
-A student-focused platform containing useful study and productivity tools.
-
-**Tech:** HTML • CSS • JavaScript
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏠 PropTech Maintenance System
-
-A property maintenance management system connecting tenants, managers and technicians.
-
-**Tech:** React • Flask • PostgreSQL
-
-</td>
-
-<td width="50%">
-
-### 📱 Sprintura Android Application
-
-An Android application project focused on creating a practical mobile experience.
-
-**Tech:** Dart • Flutter
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🖥️ Vercel Clone
-
-A frontend project inspired by the design and interface of Vercel.
-
-**Tech:** HTML • CSS
-
-</td>
-
-<td width="50%">
-
-### 🧮 Calculator
-
-A simple web-based calculator project created to practice frontend development.
-
-**Tech:** HTML • CSS • JavaScript
-
-</td>
-</tr>
-</table>
 
 ---
 
