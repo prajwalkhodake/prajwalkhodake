@@ -53,22 +53,6 @@ I'm a **Computer Engineering student** interested in building practical software
 
 ---
 
-## ⚡ What I'm Currently Working On
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   💻 Full-Stack Development                         │
-│   🧠 Data Structures & Algorithms                   │
-│   📊 Data Science                                   │
-│   🤖 Machine Learning                               │
-│   🚀 Building Real-World Projects                   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
 # 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
